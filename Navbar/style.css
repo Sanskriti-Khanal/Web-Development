@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Basic&family=Baumans&family=Doto:wght@100..900&family=Faculty+Glyphic&family=Merienda:wght@300..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+ 
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+
+}
+
+
+ 
+
+header {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 20px 50px;
+
+}
+
+ 
+
+ul {
+
+    list-style: none;
+
+    display: flex;
+
+    gap: 5rem;
+
+    font-family: "Lato", serif;
+    font-weight: bold;
+    font-style: normal;
+
+    font-size: 18px;
+
+}
+
+ 
+
+header nav ul li {
+
+    margin: 0 15px;
+
+}
+
+ 
+
+a {
+
+    text-decoration: none;
+
+    color: #000;
+
+}
+
+ 
+
+a:hover {
+
+    color: rgb(255, 255, 255);
+
+}
+
+ body{
+
+    background-image: url(Screenshot\ 2024-11-26\ at\ 23.05.31.png);
+
+    background-repeat: repeat ,no-repeat;
+
+    background-size: auto;
+ }
+
+.download {
+
+    background-color: #ffffffc8;
+
+    border: none;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    border-radius: 15px;
+
+}
+
+ 
+
+#user {
+
+    border-radius: 50%;
+
+    width: 40px;
+
+    height: 40px;
+
+}
+
+ 
+
+.hero {
+
+    display: flex;
+
+    align-items: center;
+
+    padding: 50px;
+
+}
+
+ 
+
+.container {
+
+    max-width: 50%;
+
+}
+
+ 
+
+#slogan {
+
+    font-family: "Sour Gummy", serif;
+
+    display: block;
+
+    font-size: 4rem;
+
+    font-weight: bold;
+
+    font-size: 88px;
+
+    line-height: 1;
+
+    color: #333;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+ 
+
+ 
+
+#big {
+
+    color: #5b209a;
+
+    font-weight: bolder;
+
+    font-size: 88px;
+
+}
+
+ 
+
+p {
+
+    margin: 20px 0;
+
+    font-size: 18px;
+
+    color: #212020;
+
+}
+
+ 
+
+ 
+
+#tracking {
+
+    display: flex;
+
+    background-color: rgba(167, 190, 172, 0.499);
+
+    margin-left: 100px;
+
+    height: 100px;
+
+    padding: 30px;
+
+    padding-top: 25px;
+
+    border-radius: 15px;
+
+    width: 1000px;
+
+}
+
+ 
+
+input {
+
+    padding: 10px;
+
+    flex: 1;
+
+    border: none;
+
+    border-radius: 5px;
+
+    background-color: transparent;
+
+    font-size: 16px;
+
+    color: #000;
+
+}
+
+ 
+
+.track {
+
+    display: inline;
+
+    height: 50px;
+
+    padding: 10px;
+
+    border-radius: 5px;
+
+    background-color: #ffffffb7;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-weight: bold;
+
+    border: 1px solid #ffffffc4;
+
+}
+
+ 
+
+ 
